@@ -1,7 +1,7 @@
 import React from 'react'
 import './navbar.css'
 import logo from '../../assets/logothreeNew.png'
-import contacting from '../../assets/contact.png'
+import contacting from '../../assets/contactmetwo.png'
 import {Link} from 'react-scroll';
 
 const Navbar = () => {
