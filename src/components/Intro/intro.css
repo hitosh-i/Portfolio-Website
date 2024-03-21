@@ -55,3 +55,16 @@
     margin: 0 0.25rem;
     height: 1rem;
 }
+
+/* Makes me shift to the right when the website resolution is changed*/
+@media screen and (max-width:480px) {
+    .bg{
+        right: -20vw;
+    }
+    .introContent{
+        font-size: 10vw;
+    }
+    .hello{
+        font-size: 4.5vw;
+    }
+}
