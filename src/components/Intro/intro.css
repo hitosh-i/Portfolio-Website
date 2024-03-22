@@ -1,8 +1,9 @@
 #intro{
     height: calc(100vh - 4rem);
     width: 100vw;
-    max-width: 75rem;
-    margin: ;
+    max-width: 80rem;
+    margin: 0 auto;
+    overflow: hidden;
 }
 
 .bg{
@@ -59,7 +60,7 @@
 /* Makes me shift to the right when the website resolution is changed*/
 @media screen and (max-width:480px) {
     .bg{
-        right: -20vw;
+        right: -20 vw;
     }
     .introContent{
         font-size: 10vw;
