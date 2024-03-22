@@ -2,7 +2,7 @@ import React from "react";
 import './skills.css';
 import SoftwareDesign from '../../assets/javaDesign.png';
 import csLearning from '../../assets/csLearning.png';
-import appDesign from '../../assets/app-design.png'
+import appDesign from '../../assets/softwareDesignResized.png'
 
 
 const Skills = () => {
