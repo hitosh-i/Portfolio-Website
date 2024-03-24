@@ -33,8 +33,12 @@
 
 .clientImg {
     object-fit: cover;
-    width: 40%;
+    width: 50%;
     min-width: 9rem;
     margin: auto;
     padding: 0.25rem;
+}
+
+#clients {
+    padding: 2rem;
 }
