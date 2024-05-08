@@ -28,7 +28,7 @@
 .desktopMenuListItem:hover{
     color: yellow;
     padding-bottom: 0.5rem;
-    border-bottom: 3px solid blue;
+    border-bottom: 3px solid red;
 }
 
 .desktopMenuButton{

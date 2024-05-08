@@ -14,7 +14,7 @@ const Skills = () => {
                 <div className="skillBar">
                     <img src={SoftwareDesign} alt="SoftwareDesign" className="skillbarImg" />
                     <div className="skillBarText">
-                        <h2>Learnign Computer Science Languages</h2>
+                        <h2>Learning Computer Science Languages</h2>
                         <p>The main language that I'm most proficient in Java, though I'm not unfamiliar to JavaScript, SQL, and React. I've started branching out and learning more languages and exprimenting as I have started to create more fun projects for myself!</p>
                     </div>
                 </div>
